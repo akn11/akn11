@@ -1,6 +1,6 @@
 Ashwin Nambissan's User Page
 
-- 👋 Hi, I’m Ashwin Nambissan(@akn11) a fourht year Computer Engineering student at UCSD
+- 👋 Hi, I’m Ashwin Nambissan(@akn11) a fourth year Computer Engineering student at UCSD
 - 👀 I’m interested in Software and Backend Development 
 - 🌱 I’m currently learning Recommender Systems 
 - 💞️ I’m looking to collaborate on apllication development 
